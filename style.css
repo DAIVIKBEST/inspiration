@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: beige;
+    
+}
+#hi {
+    color:dodgerblue;
+    font-size: 40
+}
+#hi2{
+    color: blue;
+ font-weight: 300;
+    font-size: 25; 
+}
+
